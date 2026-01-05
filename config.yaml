@@ -1,2 +1,2 @@
-path: "/main/my_model.joblib"
+path: "my_model.joblib"
 features: ['RPDE', 'PPE']
